@@ -341,7 +341,7 @@
                   <p><span class="align-middle">Brought to you by pp326 | <a id="footerLink" href="javascript:changeLook()">Restyle</a></span></p>
               </div>
               <div class="navbar-text float-right social">
-                <a id="footerLink" href="#"><i class="fab fa-github-square fa-2x"></i></a>
+                <a id="footerLink" href="https://github.com/ppoynter/3dapps/tree/main/assignment"><i class="fab fa-github-square fa-2x"></i></a>
               </div>
           </div>
       </nav> 
